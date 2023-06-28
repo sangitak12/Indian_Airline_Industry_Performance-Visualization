@@ -1,5 +1,5 @@
 # Indian Airline Industry Performance-Visualization
-PowerBI Link: https://shorturl.at/vFQX7
+PowerBI Link:  https://shorturl.at/vFQX7
 
 In this project, I present comprehensive information regarding air traffic in the Indian airline industry, which is recognized as the third largest domestic airline market globally. Over recent years, significant changes have taken place, including the exit of established players and the entry or acquisition of new participants. The main objective is to examine the industry's growth in India, encompassing both domestic and international operations, while analysing the market shares of airlines in passenger and cargo transportation.
 
